@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ubaid Raza 👋
 
-<!--
-**Ubaidrazapatni/Ubaidrazapatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Next.js | TypeScript | React | Tailwind CSS | Exploring Generative AI
 
-Here are some ideas to get you started:
+I'm a BS Applied Computing student passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building practical projects, and improving my skills in frontend development and Generative AI.
+
+### 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- C#
+- C++
+- Python
+- Git & GitHub
+
+### 🚀 What I'm Currently Doing
+
+- Building frontend projects with Next.js and TypeScript
+- Improving my React and Tailwind CSS skills
+- Exploring Generative AI and Agentic AI
+- Working on university and personal projects
+
+### 📌 Featured Projects
+
+Check out my repositories to see my latest projects and development work.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/Ubaidrazapatni
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Feel free to explore my repositories!
